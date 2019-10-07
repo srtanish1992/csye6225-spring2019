@@ -1,0 +1,13 @@
+[
+    {
+       "StackName": "EC2",
+       "NetworkStackName": "VPC",
+       "EC2_Key": "ec2",
+       "cicd_stack": "CICD",
+       "webapp_name": "csye6225-webapp",
+       "aws_region": "us-east-1",
+       "dynamodb_table": "csye6225",
+       "lambda_function": "ResetPassword",
+       "WafStackName" : "WAF"
+     }
+]
